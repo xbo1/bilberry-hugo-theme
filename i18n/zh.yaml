@@ -1,0 +1,18 @@
+- id: categories
+  translation: "分类"
+- id: socialMedia
+  translation: "社交媒体"
+- id: latestPosts
+  translation: "最新发表"
+- id: search
+  translation: "搜索 ..."
+- id: noSearchResults
+  translation: "找不到结果"
+- id: olderPosts
+  translation: "上一页"
+- id: newerPosts
+  translation: "下一页"
+- id: footnoteReturnText
+  translation: "[返回]"
+- id: continueReading
+  translation: "更多内容 ..."
