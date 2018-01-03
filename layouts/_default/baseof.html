@@ -58,7 +58,7 @@
                 $(".moment").each(function() {
                     $(this).text(
                         moment( $(this).text() )
-                            .locale( {{ .Site.Language.Lang }} )
+                            .locale( {{ .Site.Params.locale }} )
                             .format('LL')
                     );
                 });
